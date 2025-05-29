@@ -71,15 +71,9 @@ Try the chatbot on Hugging Face Space:
 
 1. **Clone the repo**:
 ```bash
-git clone https://github.com/YOUR_USERNAME/qwen-doctor-chat.git
+git clone https://github.com/snuka75/Doctor_Chatbot.git
 cd qwen-doctor-chat
 ```
-
-2. **Install dependencies**:
-```bash
-pip install -r requirements.txt
-```
----
 
 ## 🧠 Tech Stack
 
