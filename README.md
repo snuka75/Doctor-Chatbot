@@ -87,7 +87,8 @@ cd qwen-doctor-chat
 
 ## 📷 Screenshots
 
-![Chatbot UI](screenshots/chatbot.png)
+![Sample results](1.png)
+![Accuracy](2.png)
 
 ---
 
