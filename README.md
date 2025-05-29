@@ -1,6 +1,10 @@
-# 🩺 Qwen Doctor Chatbot
 
-An intelligent medical chatbot **fine-tuned using the Qwen 1.8B model** on a large set of real-world doctor-patient conversations. This model is **deployed as a live chatbot on Hugging Face Spaces** using Gradio UI.
+## 🩺 Qwen Doctor Chatbot
+
+An intelligent medical chatbot **fine-tuned using the Qwen 1.8B model** on a large set of real-world doctor-patient conversations. The model is **deployed as a live chatbot on Hugging Face Spaces** using Gradio UI.
+
+> 🔧 *This project significantly enhanced my skills in model fine-tuning and Hugging Face deployment — from training with LoRA adapters to launching a fully interactive chatbot interface.*
+
 
 ![Chatbot Screenshot](ChatBot.png)
 
