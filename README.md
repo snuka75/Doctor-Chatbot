@@ -2,7 +2,7 @@
 
 An intelligent medical chatbot **fine-tuned using the Qwen 1.8B model** on a large set of real-world doctor-patient conversations. This model is **deployed as a live chatbot on Hugging Face Spaces** using Gradio UI.
 
-![Chatbot Screenshot](screenshots/chatbot.png)
+![Chatbot Screenshot](ChatBot.png)
 
 ---
 
