@@ -32,7 +32,7 @@ An intelligent medical chatbot **fine-tuned using the Qwen 1.8B model** on a lar
 
 - **Base Model**: Qwen 1.8B
 - **Fine-tuning Method**: LoRA (Parameter Efficient Fine-Tuning)
-- **Dataset**: [HealthCareMagic-100k](https://www.kaggle.com/datasets/punyaslokaprusty/chatdoctor)
+- **Dataset**: [HealthCareMagic-10k](https://www.kaggle.com/datasets/punyaslokaprusty/chatdoctor)
 - **Platform**: Google Colab + RunPod
 - **Training Time**: ~3 hours (on T4 GPU)
 - **Deployed To**: Hugging Face 🤗 Spaces
